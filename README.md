@@ -155,11 +155,18 @@ PUTCHAR_PROTOTYPE
 
 
 ## Output screen shots of serial port utility   :
- 
+
+#interrupt detected:
+![Screenshot (201)](https://github.com/Yuvakrishna0/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/117915037/3aa49ac2-685d-4875-bea4-90829fa46779)
+
+
  
  ## Circuit board :
  
- 
+#no obstacle:
+![Screenshot 2024-03-07 201256](https://github.com/Yuvakrishna0/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/117915037/37823032-f947-42fb-9bff-736892d4d037)
+ #obstacle detected:
+![WhatsApp Image 2024-03-07 at 7 29 13 PM](https://github.com/Yuvakrishna0/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/117915037/b7cc6c4c-1633-44bb-a408-bcf57363ec3f)
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
